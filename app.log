@@ -1,0 +1,73 @@
+{"level":"info","message":"listening on *:3000"}
+{"level":"info","message":"listening on *:3000"}
+{"level":"info","message":"a user connected"}
+{"level":"info","message":"a user connected"}
+{"level":"info","message":"message:  ascascsa","player":"JMaas"}
+{"level":"info","message":[485]}
+{"level":"info","message":"listening on *:3000"}
+{"level":"info","message":"a user connected"}
+{"level":"info","message":"a user connected"}
+{"level":"info","message":{"message":"ASCASCSA","player":"JMaas"}}
+{"level":"info","message":[487]}
+{"level":"info","message":"listening on *:3000"}
+{"level":"info","message":["a user connected","twTcisjoIbA9P4KMAAAB"]}
+{"level":"info","message":["a user connected","KGYwMniFvYZ_bcimAAAD"]}
+{"level":"info","message":"listening on *:3000"}
+{"level":"info","message":{"event":"a user connected","socket":"p1wyytWzcCzKCHpaAAAB"}}
+{"level":"info","message":{"event":"a user connected","socket":"khKPVt8N5_lri3TaAAAD"}}
+{"level":"info","message":{"event":"user disconnected","socket":"khKPVt8N5_lri3TaAAAD"}}
+{"level":"info","message":{"event":"sending to telegram","player":"JMaas","socket":"p1wyytWzcCzKCHpaAAAB"}}
+{"level":"info","message":{"message":"Hello!","player":"JMaas"}}
+{"event":"sent to telegram","level":"info","message":"Hello!","message_id":488,"player":"JMaas","socket":"p1wyytWzcCzKCHpaAAAB"}
+{"level":"info","message":{"queue":[488]}}
+{"level":"info","message":"Starting server. listening on *:3000"}
+{"level":"info","message":{"event":"a user connected","socket":"fy1t_D9MlUw2nk7oAAAB"}}
+{"level":"info","message":{"event":"user disconnected","socket":"fy1t_D9MlUw2nk7oAAAB"}}
+{"level":"info","message":{"event":"a user connected","socket":"ZRRSgUzJ_KiZhj-MAAAD"}}
+{"level":"info","message":{"event":"sending to telegram","player":"Hello","socket":"ZRRSgUzJ_KiZhj-MAAAD"}}
+{"event":"sent to telegram","level":"info","message":"Hi!","message_id":489,"player":"Hello","socket":"ZRRSgUzJ_KiZhj-MAAAD"}
+{"level":"info","message":{"queue":[489]}}
+{"level":"info","message":"Starting server. listening on *:3000"}
+{"level":"info","message":{"event":"a user connected","socket":"lG43NJOxRhr3K0oLAAAB"}}
+{"level":"info","message":{"event":"user disconnected","socket":"lG43NJOxRhr3K0oLAAAB"}}
+{"level":"info","message":{"event":"a user connected","socket":"O3p7WVc6geH79bYiAAAD"}}
+{"level":"info","message":{"event":"sending to telegram","player":"asdasd.","socket":"O3p7WVc6geH79bYiAAAD"}}
+{"level":"info","message":{"event":"sent to telegram","message_id":490,"player":"asdasd.","socket":"O3p7WVc6geH79bYiAAAD","text":"ascsacsac"}}
+{"level":"info","message":{"queue":[490]}}
+{"level":"info","message":"Starting server. listening on *:3000"}
+{"level":"info","message":{"event":"a user connected","socket":"L14N4hL27APKDl8oAAAB"}}
+{"level":"info","message":"Starting server. listening on *:3000"}
+{"level":"info","message":{"event":"a user connected","socket":"ILbQ4dvvllSqBYOnAAAB"}}
+{"level":"info","message":{"event":"sending to telegram","player":"asdasd.","socket":"ILbQ4dvvllSqBYOnAAAB"}}
+{"level":"info","message":{"event":"sent to telegram","message_id":492,"player":"asdasd.","socket":"ILbQ4dvvllSqBYOnAAAB","text":"Hello"}}
+{"level":"info","message":{"queue":[492]}}
+{"level":"info","message":"Starting server. listening on *:3000"}
+{"level":"info","message":{"event":"a user connected","socket":"B95MIT7kWBx22XPjAAAB"}}
+{"level":"error","message":{"event":"telegram message","type":"already replied or doesn't exist"}}
+{"level":"info","message":{"event":"user disconnected","socket":"B95MIT7kWBx22XPjAAAB"}}
+{"level":"info","message":{"event":"a user connected","socket":"x2PzQaGyyMyyCYvPAAAD"}}
+{"level":"info","message":{"event":"sending to telegram","player":"Hi","socket":"x2PzQaGyyMyyCYvPAAAD","text":"Hello there!"}}
+{"level":"info","message":{"event":"sent to telegram","message_id":495,"player":"Hi","socket":"x2PzQaGyyMyyCYvPAAAD","text":"Hello there!"}}
+{"level":"info","message":{"queue":[495]}}
+{"level":"error","message":{"event":"telegram message","type":"not a reply"}}
+{"level":"info","message":{"event":"bot command","type":"check queue"}}
+{"level":"error","message":{"event":"telegram message","type":"not a reply"}}
+{"level":"error","message":{"event":"telegram message","socket":"x2PzQaGyyMyyCYvPAAAD","text":"Hi!","type":"text"}}
+{"level":"error","message":{"event":"telegram message","type":"not a reply"}}
+{"level":"error","message":{"event":"telegram message","type":"not a reply"}}
+{"level":"info","message":"Starting server. listening on *:3000"}
+{"level":"info","message":{"event":"a user connected","socket":"X_oFuP3cho1yiGSeAAAB"}}
+{"level":"info","message":"Starting server. listening on *:3000"}
+{"level":"info","message":{"event":"a user connected","socket":"XJbx5s8IZp4XnKkCAAAB"}}
+{"level":"info","message":"Starting server. listening on *:3000"}
+{"level":"info","message":{"event":"a user connected","socket":"LREE_3-bD2PvX4ojAAAB"}}
+{"level":"info","message":{"event":"sending to telegram","player":"Hi","socket":"LREE_3-bD2PvX4ojAAAB","text":"Nulla felis velit, ornare ac porttitor ut, rhoncus eu ipsum. Donec auctor efficitur est vel congue. Nunc at nunc quis massa facilisis fermentum. Vivamus fringilla nunc vitae justo consectetur, aliquam gravida nisl mollis."}}
+{"level":"info","message":{"event":"sent to telegram","message_id":502,"player":"Hi","socket":"LREE_3-bD2PvX4ojAAAB","text":"Nulla felis velit, ornare ac porttitor ut, rhoncus eu ipsum. Donec auctor efficitur est vel congue. Nunc at nunc quis massa facilisis fermentum. Vivamus fringilla nunc vitae justo consectetur, aliquam gravida nisl mollis."}}
+{"level":"info","message":{"queue":[502]}}
+{"level":"info","message":{"event":"telegram message","socket":"LREE_3-bD2PvX4ojAAAB","text":"Nulla felis velit, ornare ac porttitor ut, rhoncus eu ipsum.","type":"text"}}
+{"level":"info","message":"Starting server. listening on *:3000"}
+{"level":"info","message":{"event":"a user connected","socket":"A6Wy57eEPCZeoaE9AAAB"}}
+{"level":"info","message":{"event":"sending to telegram","player":"Hi","socket":"A6Wy57eEPCZeoaE9AAAB","text":"asdasdsa"}}
+{"level":"info","message":{"event":"sent to telegram","message_id":504,"player":"Hi","socket":"A6Wy57eEPCZeoaE9AAAB","text":"asdasdsa"}}
+{"level":"info","message":{"queue":[504]}}
+{"level":"info","message":{"event":"telegram message","message_id":504,"socket":"A6Wy57eEPCZeoaE9AAAB","text":"puto","type":"text"}}
